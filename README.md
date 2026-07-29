@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi there! 👋 I'm Alan An Jung Wei
 
-<!--
-**alananjungwei/alananjungwei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧬 PhD Biochemist turned AI & Data Scientist based in Berlin, Germany.
 
-Here are some ideas to get you started:
+I'm passionate about applying machine learning to solve real-world problems in healthcare, life sciences, NLP, and computer vision. My background combines scientific research with modern AI engineering, allowing me to bridge the gap between research and practical applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Currently
+
+- 🔭 Building practical AI and machine learning projects
+- 🌱 Learning MLOps, LLM Engineering, and cloud deployment
+- 💡 Interested in Healthcare AI, Explainable AI, NLP, and Computer Vision
+
+---
+## 👨‍💻 About Me
+
+- 🧬 PhD in Biochemistry
+- 🤖 AI & Machine Learning enthusiast
+- 📍 Based in Berlin, Germany
+- 🌍 German 🇩🇪 | Taiwanese 🇹🇼 | Canadian 🇨🇦
+- 💬 Ask me about Python, Machine Learning, Deep Learning, Proteomics, or Data Science
+- ⚡ Fun fact: I enjoy learning languages, traveling, and turning scientific ideas into practical AI applications.
+
+## 🌟 Featured Projects
+
+Here are some of my favorite projects that showcase different areas of AI and Data Science.
+
+## 🛠 Tech Stack
+
+**Languages**
+
+Python • SQL • R
+
+**Machine Learning**
+
+scikit-learn • TensorFlow • PyTorch • XGBoost
+
+**Data Science**
+
+Pandas • NumPy • Matplotlib • Jupyter
+
+**Development**
+
+Git • Docker • FastAPI • Streamlit
+
+**Cloud**
+
+AWS
+
