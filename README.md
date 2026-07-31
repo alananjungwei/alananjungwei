@@ -76,7 +76,6 @@ Building AI for Healthcare • NLP • Computer Vision
 #### Frameworks & Libraries
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -105,23 +104,12 @@ Building AI for Healthcare • NLP • Computer Vision
 
 ---
 
-### ☁️ Cloud
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Amazon Bedrock](https://img.shields.io/badge/Amazon_Bedrock-FF9900?style=flat-square)
-![Amazon SageMaker](https://img.shields.io/badge/Amazon_SageMaker-FF9900?style=flat-square)
-![Amazon Comprehend](https://img.shields.io/badge/Amazon_Comprehend-FF9900?style=flat-square)
-![Amazon Textract](https://img.shields.io/badge/Amazon_Textract-FF9900?style=flat-square)
-![Amazon Rekognition](https://img.shields.io/badge/Amazon_Rekognition-FF9900?style=flat-square)
-![IAM](https://img.shields.io/badge/IAM-FF9900?style=flat-square)
-
----
 
 ### 🏅 Certifications
 
 ![AWS Certified AI Practitioner](https://img.shields.io/badge/AWS_Certified_AI_Practitioner-AIF--C01-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-![PhD](https://img.shields.io/badge/PhD-Biochemistry-1E40AF?style=for-the-badge)
+
 ---
 
 ## 🌟 Featured Projects
