@@ -2,7 +2,9 @@
 
 🧬 PhD Biochemist turned AI & Data Scientist based in Berlin, Germany.
 
-I'm passionate about applying machine learning to solve real-world problems in healthcare, life sciences, NLP, and computer vision. My background combines scientific research with modern AI engineering, allowing me to bridge the gap between research and practical applications.
+Building AI solutions for healthcare, life sciences, NLP, and computer vision.
+
+I enjoy transforming scientific research into practical machine learning applications.
 
 ---
 
