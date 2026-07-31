@@ -35,37 +35,46 @@ Building AI for Healthcare • NLP • Computer Vision
 
 ## 🛠 Skills & Technologies
 
+<table>
+<tr>
+
+<td valign="top" width="25%">
+
 ### 💬 Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,mysql,r" />
 </p>
 
----
+</td>
+
+<td valign="top" width="75%">
 
 ### 🤖 Machine Learning
 
-**Learning Paradigms**
-- Supervised Learning
-- Unsupervised Learning
+| Learning Paradigms | Algorithms |
+|--------------------|------------|
+| Supervised Learning | Random Forest |
+| Unsupervised Learning | XGBoost |
+| | Linear Regression |
+| | Logistic Regression |
 
-**Tasks**
-- Classification
-- Regression
+| Tasks | Model Development |
+|------|-------------------|
+| Classification | Hyperparameter Tuning |
+| Regression | Feature Engineering |
+| | Model Evaluation |
+| | Cross Validation |
 
-**Algorithms**
-- Random Forest
-- XGBoost
-- Linear Regression
-- Logistic Regression
+</td>
 
-**Model Development**
-- Feature Engineering
-- Hyperparameter Tuning
-- Cross Validation
-- Model Evaluation
+</tr>
+</table>
 
----
+<table>
+<tr>
+
+<td valign="top" width="50%">
 
 ### 📚 AI & Data Science
 
@@ -73,23 +82,17 @@ Building AI for Healthcare • NLP • Computer Vision
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
 </p>
 
-**Libraries**
+| Libraries | AI Domains |
+|------------|------------|
+| scikit-learn | Deep Learning |
+| Pandas | Computer Vision |
+| NumPy | Natural Language Processing |
+| Matplotlib | Explainable AI |
+| SHAP | Transfer Learning |
 
-- scikit-learn
-- Pandas
-- NumPy
-- Matplotlib
-- SHAP
+</td>
 
-**AI Domains**
-
-- Deep Learning
-- Computer Vision
-- Natural Language Processing
-- Explainable AI
-- Transfer Learning
-
----
+<td valign="top" width="50%">
 
 ### 🛠 Development
 
@@ -102,7 +105,15 @@ Building AI for Healthcare • NLP • Computer Vision
 - GitHub
 - REST APIs
 
----
+</td>
+
+</tr>
+</table>
+
+<table>
+<tr>
+
+<td valign="top" width="50%">
 
 ### ☁️ Cloud
 
@@ -110,14 +121,26 @@ Building AI for Healthcare • NLP • Computer Vision
 <img src="https://skillicons.dev/icons?i=aws" />
 </p>
 
+- Amazon Bedrock
+- Amazon SageMaker
+- Amazon Rekognition
+- Amazon Textract
+- Amazon Comprehend
+- IAM
 
----
+</td>
+
+<td valign="top" width="50%">
 
 ### 🏅 Certifications
 
 - 🟧 AWS Certified AI Practitioner (AIF-C01)
 - 🎓 PhD in Biochemistry
 
+</td>
+
+</tr>
+</table>
 ---
 
 ## 🌟 Featured Projects
