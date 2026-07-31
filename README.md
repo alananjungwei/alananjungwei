@@ -35,78 +35,43 @@ Building AI for Healthcare • NLP • Computer Vision
 
 ## 🛠 Skills & Technologies
 
-<table>
-
-<tr>
-
-<td valign="top" width="25%">
-
 ### 💬 Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,mysql,r" />
 </p>
 
-</td>
-
-<td valign="top" width="75%">
+---
 
 ### 🤖 Machine Learning
 
-<table>
-<tr>
-
-<td valign="top" width="50%">
-
 **Learning Paradigms**
-
 - Supervised Learning
 - Unsupervised Learning
 
-<br>
-
 **Tasks**
-
 - Classification
 - Regression
 
-</td>
-
-<td valign="top" width="50%">
-
 **Algorithms**
-
 - Random Forest
 - XGBoost
 - Linear Regression
 - Logistic Regression
 
-<br>
-
 **Model Development**
-
-- Hyperparameter Tuning
 - Feature Engineering
-- Model Evaluation
+- Hyperparameter Tuning
 - Cross Validation
+- Model Evaluation
 
-</td>
-
-</tr>
-</table>
-
-<br>
+---
 
 ### 📚 AI & Data Science
 
 <p>
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
 </p>
-
-<table>
-<tr>
-
-<td valign="top" width="50%">
 
 **Libraries**
 
@@ -116,10 +81,6 @@ Building AI for Healthcare • NLP • Computer Vision
 - Matplotlib
 - SHAP
 
-</td>
-
-<td valign="top" width="50%">
-
 **AI Domains**
 
 - Deep Learning
@@ -128,12 +89,7 @@ Building AI for Healthcare • NLP • Computer Vision
 - Explainable AI
 - Transfer Learning
 
-</td>
-
-</tr>
-</table>
-
-<br>
+---
 
 ### 🛠 Development
 
@@ -146,7 +102,7 @@ Building AI for Healthcare • NLP • Computer Vision
 - GitHub
 - REST APIs
 
-<br>
+---
 
 ### ☁️ Cloud
 
@@ -155,18 +111,12 @@ Building AI for Healthcare • NLP • Computer Vision
 </p>
 
 
-<br>
+---
 
 ### 🏅 Certifications
 
 - 🟧 AWS Certified AI Practitioner (AIF-C01)
 - 🎓 PhD in Biochemistry
-
-</td>
-
-</tr>
-
-</table>
 
 ---
 
