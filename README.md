@@ -2,16 +2,16 @@
 
 🧬 PhD Biochemist building AI solutions for healthcare, life sciences, NLP, and computer vision.
 
-Building AI solutions for healthcare, life sciences, NLP, and computer vision.
+🧬 PhD Biochemist | 🤖 Machine Learning Engineer | 📍 Berlin, Germany
 
-I enjoy transforming scientific research into practical machine learning applications.
+I build AI solutions for healthcare, life sciences, NLP, and computer vision, combining scientific research with practical machine learning.
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=alananjungwei&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=alananjungwei&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alananjungwei&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alananjungwei&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
 </p>
 
 <p align="center">
