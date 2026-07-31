@@ -135,12 +135,6 @@ I combine scientific research with modern AI and machine learning to build pract
 <img src="https://skillicons.dev/icons?i=aws" />
 </p>
 
-- Amazon Bedrock
-- Amazon SageMaker
-- IAM
-- Amazon Comprehend
-- Amazon Textract
-- Amazon Rekognition
 
 </td>
 
