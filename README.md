@@ -1,12 +1,12 @@
-# Hi there! 👋 I'm Alan An Jung Wei
+══════════════════════════════════════════════════════
 
-🧬 **PhD Biochemist** | 🤖 **Machine Learning Engineer** | 📍 Berlin, Germany
+Alan An Jung Wei
 
-Building AI solutions for healthcare, life sciences, NLP, and computer vision.
+Machine Learning Engineer • PhD Biochemist
 
-I combine scientific research with modern AI and machine learning to build practical, data-driven solutions.
+Building AI for Healthcare • NLP • Computer Vision
 
----
+══════════════════════════════════════════════════════
 
 ## 🚀 About Me
 
@@ -36,9 +36,10 @@ I combine scientific research with modern AI and machine learning to build pract
 ## 🛠 Skills & Technologies
 
 <table>
+
 <tr>
 
-<td valign="top" width="50%">
+<td valign="top" width="25%">
 
 ### 💬 Languages
 
@@ -48,18 +49,21 @@ I combine scientific research with modern AI and machine learning to build pract
 
 </td>
 
-<td valign="top" width="50%">
+<td valign="top" width="75%">
 
 ### 🤖 Machine Learning
 
 <table>
 <tr>
+
 <td valign="top" width="50%">
 
 **Learning Paradigms**
 
 - Supervised Learning
 - Unsupervised Learning
+
+<br>
 
 **Tasks**
 
@@ -77,6 +81,8 @@ I combine scientific research with modern AI and machine learning to build pract
 - Linear Regression
 - Logistic Regression
 
+<br>
+
 **Model Development**
 
 - Hyperparameter Tuning
@@ -85,8 +91,11 @@ I combine scientific research with modern AI and machine learning to build pract
 - Cross Validation
 
 </td>
+
 </tr>
 </table>
+
+<br>
 
 ### 📚 AI & Data Science
 
@@ -124,6 +133,8 @@ I combine scientific research with modern AI and machine learning to build pract
 </tr>
 </table>
 
+<br>
+
 ### 🛠 Development
 
 <p>
@@ -135,13 +146,7 @@ I combine scientific research with modern AI and machine learning to build pract
 - GitHub
 - REST APIs
 
-</td>
-
-</tr>
-
-<tr>
-
-<td valign="top">
+<br>
 
 ### ☁️ Cloud
 
@@ -150,9 +155,7 @@ I combine scientific research with modern AI and machine learning to build pract
 </p>
 
 
-</td>
-
-<td valign="top">
+<br>
 
 ### 🏅 Certifications
 
@@ -182,14 +185,17 @@ I combine scientific research with modern AI and machine learning to build pract
 ## 🤝 Let's Connect
 
 <p align="left">
-<a href="www.linkedin.com/in/alananjungwei">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+
+<a href="https://www.linkedin.com/in/alananjungwei" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
 <a href="mailto:alanweica@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
+<img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-<a href="[YOUR_GOOGLE_SCHOLAR](https://scholar.google.com/citations?user=90vkVG0AAAAJ&hl=en)">
+<a href="https://scholar.google.com/citations?user=90vkVG0AAAAJ&hl=en" target="_blank">
 <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"/>
 </a>
+
+</p>
