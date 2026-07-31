@@ -1,10 +1,23 @@
 # Hi there! 👋 I'm Alan An Jung Wei
 
-🧬 PhD Biochemist building AI solutions for healthcare, life sciences, NLP, and computer vision.
+🧬 **PhD Biochemist** | 🤖 **Machine Learning Engineer** | 📍 Berlin, Germany
 
-🧬 PhD Biochemist | 🤖 Machine Learning Engineer | 📍 Berlin, Germany
+Building AI solutions for healthcare, life sciences, NLP, and computer vision.
 
-I build AI solutions for healthcare, life sciences, NLP, and computer vision, combining scientific research with practical machine learning.
+I combine scientific research with modern AI and machine learning to build practical, data-driven solutions.
+
+---
+
+## 🚀 About Me
+
+- 🧬 PhD in Biochemistry
+- 🤖 Machine Learning Engineer with a research background
+- 🌍 German 🇩🇪 • Taiwanese 🇹🇼 • Canadian 🇨🇦
+- 💡 Interested in Healthcare AI, NLP, Computer Vision, Explainable AI, and MLOps
+- 🌱 Currently learning LLM Engineering, MLOps, and Cloud AI deployment
+- 💬 Ask me about Python, Machine Learning, Deep Learning, Proteomics, or Data Science
+
+---
 
 ## 📊 GitHub Stats
 
@@ -18,39 +31,171 @@ I build AI solutions for healthcare, life sciences, NLP, and computer vision, co
   <img src="https://streak-stats.demolab.com?user=alananjungwei&theme=github-dark&hide_border=true"/>
 </p>
 
-## 💻 Tech Stack
+---
 
-### Languages
+## 🛠 Skills & Technologies
+
+<table>
+<tr>
+
+<td valign="top" width="50%">
+
+### 💬 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,r,mysql" />
+<img src="https://skillicons.dev/icons?i=python,mysql,r" />
 </p>
 
-### Machine Learning & AI
+</td>
+
+<td valign="top" width="50%">
+
+### 🤖 Machine Learning
+
+**Learning Paradigms**
+
+- Supervised Learning
+- Unsupervised Learning
+
+**Tasks**
+
+- Classification
+- Regression
+
+**Algorithms**
+
+- Random Forest
+- XGBoost
+- Linear Regression
+- Logistic Regression
+
+**Model Development**
+
+- Hyperparameter Tuning
+- Feature Engineering
+- Model Evaluation
+- Cross Validation
+
+</td>
+
+</tr>
+
+<tr>
+
+<td valign="top">
+
+### 📚 AI & Data Science
 
 <p>
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
 </p>
 
+**Libraries**
+
+- scikit-learn
+- Pandas
+- NumPy
+- Matplotlib
+- SHAP
+
+**AI Domains**
+
+- Deep Learning
+- Computer Vision
+- Natural Language Processing
+- Explainable AI
+- Transfer Learning
+
+</td>
+
+<td valign="top">
+
+### 🛠 Development
+
 <p>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/XGBoost-017CEE?style=for-the-badge"/>
+<img src="https://skillicons.dev/icons?i=vscode,git,docker,fastapi,anaconda" />
 </p>
 
-### Development
+- Jupyter Notebook
+- Streamlit
+- GitHub
+- REST APIs
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,docker,fastapi,vscode" />
-</p>
+</td>
 
-### Data Science
+</tr>
 
-<p>
-<img src="https://skillicons.dev/icons?i=anaconda" />
-</p>
+<tr>
 
-### Cloud
+<td valign="top">
+
+### ☁️ Cloud
 
 <p>
 <img src="https://skillicons.dev/icons?i=aws" />
+</p>
+
+- Amazon Bedrock
+- Amazon SageMaker
+- IAM
+- Amazon Comprehend
+- Amazon Textract
+- Amazon Rekognition
+
+</td>
+
+<td valign="top">
+
+### 🏅 Certifications
+
+- 🟧 AWS Certified AI Practitioner (AIF-C01)
+- 🎓 PhD in Biochemistry
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+## 🌟 Featured Projects
+
+| Project | Description |
+|----------|-------------|
+| 🧠 **AI Digital Wellness Assistant** | End-to-end AI application combining Machine Learning, Explainable AI (SHAP), and LLM-powered personalized wellness recommendations. |
+| 📰 **Fake News Detection** | Compared classical NLP approaches with Transformer models for misinformation detection. |
+| 📷 **CIFAR-10 Image Classification** | Built CNN and EfficientNetB0 transfer learning models for computer vision. |
+| 📈 **Customer Churn Prediction** | End-to-end machine learning pipeline with feature engineering, XGBoost, Random Forest, and business insights. |
+
+---
+
+## 📚 Publications
+
+Selected peer-reviewed research in molecular biology and proteomics.
+
+- Nature Communications
+- Autophagy Reports
+- Additional publications available upon request.
+
+---
+
+## 🤝 Let's Connect
+
+<p align="left">
+<a href="YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<a href="YOUR_GOOGLE_SCHOLAR">
+<img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"/>
+</a>
+
+<a href="YOUR_CV">
+<img src="https://img.shields.io/badge/CV-Download-blue?style=for-the-badge"/>
+</a>
 </p>
