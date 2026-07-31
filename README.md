@@ -52,6 +52,10 @@ I combine scientific research with modern AI and machine learning to build pract
 
 ### 🤖 Machine Learning
 
+<table>
+<tr>
+<td valign="top" width="50%">
+
 **Learning Paradigms**
 
 - Supervised Learning
@@ -61,6 +65,10 @@ I combine scientific research with modern AI and machine learning to build pract
 
 - Classification
 - Regression
+
+</td>
+
+<td valign="top" width="50%">
 
 **Algorithms**
 
@@ -77,18 +85,19 @@ I combine scientific research with modern AI and machine learning to build pract
 - Cross Validation
 
 </td>
-
 </tr>
-
-<tr>
-
-<td valign="top">
+</table>
 
 ### 📚 AI & Data Science
 
 <p>
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
 </p>
+
+<table>
+<tr>
+
+<td valign="top" width="50%">
 
 **Libraries**
 
@@ -97,6 +106,10 @@ I combine scientific research with modern AI and machine learning to build pract
 - NumPy
 - Matplotlib
 - SHAP
+
+</td>
+
+<td valign="top" width="50%">
 
 **AI Domains**
 
@@ -108,7 +121,8 @@ I combine scientific research with modern AI and machine learning to build pract
 
 </td>
 
-<td valign="top">
+</tr>
+</table>
 
 ### 🛠 Development
 
@@ -164,32 +178,18 @@ I combine scientific research with modern AI and machine learning to build pract
 
 ---
 
-## 📚 Publications
-
-Selected peer-reviewed research in molecular biology and proteomics.
-
-- Nature Communications
-- Autophagy Reports
-- Additional publications available upon request.
-
----
 
 ## 🤝 Let's Connect
 
 <p align="left">
-<a href="YOUR_LINKEDIN">
+<a href="www.linkedin.com/in/alananjungwei">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:alanweica@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
-<a href="YOUR_GOOGLE_SCHOLAR">
+<a href="[YOUR_GOOGLE_SCHOLAR](https://scholar.google.com/citations?user=90vkVG0AAAAJ&hl=en)">
 <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"/>
 </a>
-
-<a href="YOUR_CV">
-<img src="https://img.shields.io/badge/CV-Download-blue?style=for-the-badge"/>
-</a>
-</p>
