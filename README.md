@@ -31,24 +31,17 @@ Building AI for Healthcare • NLP • Computer Vision
 
 ### 🤖 Machine Learning
 
-#### Learning Paradigms
 
 ![Supervised Learning](https://img.shields.io/badge/Supervised_Learning-2563EB?style=flat-square)
 ![Unsupervised Learning](https://img.shields.io/badge/Unsupervised_Learning-2563EB?style=flat-square)
 
-#### Tasks
-
 ![Classification](https://img.shields.io/badge/Classification-3B82F6?style=flat-square)
 ![Regression](https://img.shields.io/badge/Regression-3B82F6?style=flat-square)
-
-#### Algorithms
 
 ![Random Forest](https://img.shields.io/badge/Random_Forest-16A34A?style=flat-square)
 ![XGBoost](https://img.shields.io/badge/XGBoost-16A34A?style=flat-square)
 ![Linear Regression](https://img.shields.io/badge/Linear_Regression-16A34A?style=flat-square)
 ![Logistic Regression](https://img.shields.io/badge/Logistic_Regression-16A34A?style=flat-square)
-
-#### Model Development
 
 ![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-7C3AED?style=flat-square)
 ![Hyperparameter Tuning](https://img.shields.io/badge/Hyperparameter_Tuning-7C3AED?style=flat-square)
@@ -59,16 +52,12 @@ Building AI for Healthcare • NLP • Computer Vision
 
 ### 📚 AI & Data Science
 
-#### Frameworks & Libraries
-
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 ![SHAP](https://img.shields.io/badge/SHAP-Explainable_AI-7C3AED?style=for-the-badge)
-
-#### AI Domains
 
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-DC2626?style=flat-square)
 ![Computer Vision](https://img.shields.io/badge/Computer_Vision-DC2626?style=flat-square)
@@ -98,16 +87,6 @@ Building AI for Healthcare • NLP • Computer Vision
 
 ---
 
-## 🌟 Featured Projects
-
-| Project | Description |
-|----------|-------------|
-| 🧠 **AI Digital Wellness Assistant** | End-to-end AI application combining Machine Learning, Explainable AI (SHAP), and LLM-powered personalized wellness recommendations. |
-| 📰 **Fake News Detection** | Compared classical NLP approaches with Transformer models for misinformation detection. |
-| 📷 **CIFAR-10 Image Classification** | Built CNN and EfficientNetB0 transfer learning models for computer vision. |
-| 📈 **Customer Churn Prediction** | End-to-end machine learning pipeline with feature engineering, XGBoost, Random Forest, and business insights. |
-
----
 
 
 ## 🤝 Let's Connect
