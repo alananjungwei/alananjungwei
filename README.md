@@ -8,41 +8,16 @@ I enjoy transforming scientific research into practical machine learning applica
 
 ---
 
-### 🚀 Currently
+## 📊 GitHub Stats
 
-- 🔭 Building practical AI and machine learning projects
-- 🌱 Learning MLOps, LLM Engineering, and cloud deployment
-- 💡 Interested in Healthcare AI, Explainable AI, NLP, and Computer Vision
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=alananjungwei&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alananjungwei&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
 
----
-## 👨‍💻 About Me
-
-- 🧬 PhD in Biochemistry
-- 🤖 AI & Machine Learning enthusiast
-- 📍 Based in Berlin, Germany
-- 🌍 German 🇩🇪 | Taiwanese 🇹🇼 | Canadian 🇨🇦
-- 💬 Ask me about Python, Machine Learning, Deep Learning, Proteomics, or Data Science
-- ⚡ Fun fact: I enjoy learning languages, traveling, and turning scientific ideas into practical AI applications.
-
-## 🌟 Featured Projects
-
-Here are some of my favorite projects that showcase different areas of AI and Data Science.
-
-## 🛠 Tech Stack
-
-**Languages**
-
-Python • SQL • R
-
-**Machine Learning**
-
-scikit-learn • TensorFlow • PyTorch • XGBoost
-
-**Data Science**
-
-Pandas • NumPy • Matplotlib • Jupyter
-
-**Development**
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=alananjungwei&theme=github-dark&hide_border=true"/>
+</p>
 
 Git • Docker • FastAPI • Streamlit
 
